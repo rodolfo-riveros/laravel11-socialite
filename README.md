@@ -72,4 +72,7 @@ Para que la redirección funcione correctamente al utilizar Laravel Socialite co
 - URL: `http://localhost:8000/`
 
 Es importante que la URL de tu aplicación coincida exactamente con la URL configurada en tu aplicación de GitHub para la redirección correcta después de la autenticación.
+
+[![vista previa](https://postimg.cc/PCsFqVgt)]
+
 # laravel11-socialite
