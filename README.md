@@ -73,6 +73,6 @@ Para que la redirección funcione correctamente al utilizar Laravel Socialite co
 
 Es importante que la URL de tu aplicación coincida exactamente con la URL configurada en tu aplicación de GitHub para la redirección correcta después de la autenticación.
 
-[![vista previa](https://postimg.cc/PCsFqVgt)]
+[![Imagenes](https://i.postimg.cc/htfFpHM7/Captura-de-pantalla-2024-05-02-164456.png)(https://i.postimg.cc/d31nJKh2/Captura-de-pantalla-2024-05-02-164507.png)]
 
 # laravel11-socialite
